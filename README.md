@@ -1,10 +1,3 @@
-<img src="https://events-fullcycle.s3.amazonaws.com/events-fullcycle/media/images/962edb195c0448df860fbea9304a7f24.png" width="200">
-
-Participe gratuitamente: https://fcexperience.fullcycle.com.br/
-
-## Sobre o repositório
-Esse repositório contém o código-fonte ministrado na Microsserviços e gRPC na prática [https://www.youtube.com/watch?v=GAahWrE7ShE](https://www.youtube.com/watch?v=GAahWrE7ShE)
-
 ## Rodar a aplicação
 
 O projeto tem 2 pastas:
